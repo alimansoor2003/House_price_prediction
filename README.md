@@ -1,4 +1,4 @@
-**## 🏠 House Price Prediction API ##**
+**🏠 House Price Prediction API **
 A Machine Learning project that predicts 
 house prices using a trained regression 
 model and exposes it through a FastAPI backend. 
